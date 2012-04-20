@@ -18,5 +18,5 @@
 # limitations under the License.
 
 execute "update rubygems" do
-	command "gem update --system"
+  command "gem update --system"
 end
